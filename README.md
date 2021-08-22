@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou o Matheus Claudino Ribeiro 🗼
 
 
-- 🔭 Hoje eu trabalho na área de infraestrutura / Today I work in the infrastructure area
+- 🔭 Hoje eu trabalho na área de infraestrutura / Nowadays I work in the infrastructure area
 - 🌱 Estou aprendendo sobre Inteligências Artificiais /  I'm learning about Artificial Intelligences
 
 <div>
