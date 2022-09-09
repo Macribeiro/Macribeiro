@@ -11,7 +11,6 @@
 <div style="display: inline_block"><br>
   <img allign="center" alt="Matt-Py" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
   <img allign="center" alt="Matt-Py" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Django" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg"/>
   <img allign="center" alt="Matt-Py" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
   <img allign="center" alt="Matt-C" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
   <img allign="center" alt="Matt-Dart" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
