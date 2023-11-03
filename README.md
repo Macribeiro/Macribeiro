@@ -19,9 +19,9 @@
   <img allign="center" alt="Matt-C" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
   <img allign="center" alt="Matt-Dart" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
   <img allign="center" alt="Matt-Flutter" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/>
   <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/>
   <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
+  <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/>
 </div><br><br>
 
 ![](https://thumbs.gfycat.com/CloseHarshArawana-size_restricted.gif)
