@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/mongodb-leaf.svg"/>
+  <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img allign="center" alt="Matt-NodeJs" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img allign="center" alt="Matt-MySql" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img allign="center" alt="Matt-Java" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
