@@ -1,4 +1,7 @@
-### Hello, World. I'm Matheus Claudino Ribeiro 🇧🇷. Welcome to my Github!
+### Hello, World. I'm Matheus Claudino Ribeiro 🇧🇷.
+A.K.A Claus.
+
+Welcome to my Github!
 
 
 
