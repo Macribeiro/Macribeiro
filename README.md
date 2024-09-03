@@ -5,7 +5,7 @@ Welcome to my Github!
 
 ## Core Skills
 <div style="display: inline_block"><br>
-  <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> 
+  <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> 
   MongoDB - Professional Experience: 2.6 years <br>
   
   <img allign="center" alt="Matt-NodeJs" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
