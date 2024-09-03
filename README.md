@@ -12,7 +12,7 @@ Welcome to my Github!
   <img allign="center" alt="Matt-Py" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
   Python - Professional Experience: 1 year <br>
   <img allign="center" alt="Matt-SqlServer" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-  Sql Server Management - Professional Experience: 1 year <br>
+  Sql Server Management - Professional Experience: 1 year <br> <br>
           
           
 ### Technical Skill
