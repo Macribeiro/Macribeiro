@@ -21,7 +21,7 @@ Welcome to my Github!
   Python - Professional Experience: 1 year <br>
   
   <img allign="center" alt="Matt-SqlServer" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-  Sql Server Management - Professional Experience: 1 year <br> <br>
+  SQL Server Management - Professional Experience: 1 year <br> <br>
           
           
 ### Technical Knowledge
