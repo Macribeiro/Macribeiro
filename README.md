@@ -15,18 +15,18 @@ Welcome to my Github!
   Sql Server Management - Professional Experience: 1 year <br> <br>
           
           
-### Technical Skill
+### Technical Knowledge
 <div style="display: inline_block"><br>
-  <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Jupiter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Numpy" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
-  <img allign="center" alt="Matt-Dart" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Flutter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br>
+  <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java <br>
+  <img allign="center" alt="Matt-Jupiter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/> Jupyter <br>
+  <img allign="center" alt="Matt-Numpy" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/> Numpy <br>
+  <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/> C Lang <br>
+  <img allign="center" alt="Matt-Dart" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/> Dart <br>
+  <img allign="center" alt="Matt-Flutter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/> Flutter <br>
+  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/> C# .NET <br>
+  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/> C++ <br>
+  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/> VS Code <br>
 </div><br><br>
    
 </div><br><br>
