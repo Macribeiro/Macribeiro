@@ -33,8 +33,8 @@ Welcome to my Github!
 
 <div>
   <a href = "https://github.com/Macribeiro">
-  ![Macribeiro's Stats](https://github-readme-stats.vercel.app/api?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-  ![Macribeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+    <img allign="center" alt="MattStats" heihgt="30" width="40" src="https://github-readme-stats.vercel.app/api?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&count_private=false"/>
+    <img allign="center" alt="MattStats" heihgt="30" width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 
