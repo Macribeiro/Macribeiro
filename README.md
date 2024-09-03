@@ -17,24 +17,24 @@ Welcome to my Github!
           
 ### Technical Skill
 <div style="display: inline_block"><br>
-  <img allign="center" alt="Matt-MySql" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Java" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Jupiter" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Numpy" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-C" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
-  <img allign="center" alt="Matt-Dart" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
-  <img allign="center" alt="Matt-Flutter" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
-  <img allign="center" alt="Matt-VsCode" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-Jupiter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-Numpy" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/>
+  <img allign="center" alt="Matt-Dart" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
+  <img allign="center" alt="Matt-Flutter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/>
+  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/>
+  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/>
 </div><br><br>
    
 </div><br><br>
 
 <div>
   <a href = "https://github.com/Macribeiro">
-    <img allign="center" alt="MattStats" heihgt="30" width="40" src="https://github-readme-stats.vercel.app/api?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&count_private=false"/>
-    <img allign="center" alt="MattStats" heihgt="30" width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+    <img allign="center" alt="MattStats" heihgt="180em" width="40" src="https://github-readme-stats.vercel.app/api?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&count_private=false"/>
+    <img allign="center" alt="MattStats" heihgt="180em" width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 
