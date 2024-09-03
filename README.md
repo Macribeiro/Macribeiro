@@ -15,7 +15,7 @@ Welcome to my Github!
   Postman - Professinal Experience: 2.6 years <br>
 
   <img allign="center" alt="Matt-Elasticsearch" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-  ElasticSearch Kibana - Professional Experience: 2.6 years
+  ElasticSearch Kibana - Professional Experience: 2.6 years <br>
   
   <img allign="center" alt="Matt-Py" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
   Python - Professional Experience: 1 year <br>
