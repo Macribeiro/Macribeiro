@@ -26,16 +26,13 @@ Welcome to my Github!
           
 ### Technical Knowledge
 <div style="display: inline_block"><br>
+  Databases
   <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br>
+  Backend
   <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java <br>
-  <img allign="center" alt="Matt-Jupiter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"/> Jupyter <br>
-  <img allign="center" alt="Matt-Numpy" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg"/> Numpy <br>
-  <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/> C Lang <br>
-  <img allign="center" alt="Matt-Dart" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/> Dart <br>
-  <img allign="center" alt="Matt-Flutter" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/> Flutter <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/> C# .NET <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/> C++ <br>
-  <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"/> VS Code
+  <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/> C Lang <br>
 </div><br><br>
    
 </div><br><br>
