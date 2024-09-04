@@ -4,7 +4,7 @@ A.K.A Claus.
 Welcome to my Github!
 
 ## Core Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block"> <br>
   <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> MongoDB - Professional Experience: 2.6 years <br>
   
   <img allign="center" alt="Matt-NodeJs" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -22,7 +22,8 @@ Welcome to my Github!
   <img allign="center" alt="Matt-SqlServer" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
   SQL Server Management - Professional Experience: 1 year <br> <br>
           
-          
+</div><br><br>
+
 ## Technical Knowledge
 <div style="display: inline_block"><br>
   <strong>DATABASE</strong> <br>
@@ -32,9 +33,9 @@ Welcome to my Github!
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/> C# .NET <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/> C++ <br>
   <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/> C Lang <br>
-</div><br><br>
+</div> <br><br>
    
-</div><br><br>
+
 
 <div>
   <a href = "https://github.com/Macribeiro">
