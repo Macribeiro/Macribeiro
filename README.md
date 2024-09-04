@@ -26,7 +26,7 @@ Welcome to my Github!
   <strong>API REST</strong> <br> <br>
   <img allign="center" alt="Matt-Postman" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   Postman - Professinal Experience: 2.6 years <br>        
-</div><br>
+</div>
 
 ## Technical Knowledge
 <div style="display: inline_block"><br>
