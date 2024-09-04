@@ -6,7 +6,7 @@ Welcome to my Github!
 ## Core Skills
 <div style="display: inline_block">
   
-  <strong>DATABASES</strong> <br>
+  <strong>DATABASES</strong> <br> <br>
   <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> 
   MongoDB - Professional Experience: 2.6 years <br>
   
