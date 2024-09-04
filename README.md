@@ -26,9 +26,9 @@ Welcome to my Github!
           
 ## Technical Knowledge
 <div style="display: inline_block"><br>
-  *DATABASE* <br>
+  <strong>DATABASE</strong> <br>
   <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br>
-  *BACKEND* <br>
+  <strong>BACKEND</strong> <br>
   <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/> C# .NET <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/> C++ <br>
