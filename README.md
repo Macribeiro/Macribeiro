@@ -6,7 +6,7 @@ Welcome to my Github!
 ## Core Skills
 <div style="display: inline_block"> <br>
   
-  <strong>DATABASES</strong>
+  <strong>DATABASES</strong> <br>
   <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> 
   MongoDB - Professional Experience: 2.6 years <br>
   
@@ -16,14 +16,14 @@ Welcome to my Github!
   <img allign="center" alt="Matt-SqlServer" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
   SQL Server Management - Professional Experience: 1 year <br> <br>
 
-  <strong>BACKEND</strong>
+  <strong>BACKEND</strong> <br>
   <img allign="center" alt="Matt-NodeJs" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   Node.js - Professional Experience: 2.6 years <br>
   
   <img allign="center" alt="Matt-Py" heihgt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
   Python - Professional Experience: 1 year <br> <br>
 
-  <strong>API REST</strong>
+  <strong>API REST</strong> <br>
   <img allign="center" alt="Matt-Postman" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   Postman - Professinal Experience: 2.6 years <br>        
 </div><br><br>
