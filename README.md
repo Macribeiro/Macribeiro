@@ -29,8 +29,8 @@ Welcome to my Github!
 </div>
 
 ## Technical Knowledge
-<div style="display: inline_block"><br>
-  <strong>DATABASE</strong> <br>
+<div style="display: inline_block">
+  <strong>DATABASE</strong> <br> <br>
   <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br>
   <strong>BACKEND</strong> <br>
   <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java <br>
