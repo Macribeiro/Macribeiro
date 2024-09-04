@@ -40,7 +40,7 @@ Welcome to my Github!
 </div> <br><br>
    
 
-## My Github Top Langs
+## My Github Top Languages
 <div>
   <a href = "https://github.com/Macribeiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&theme=dracula&show_icons=true&hide_border=false&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macribeiro&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
