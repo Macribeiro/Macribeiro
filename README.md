@@ -6,7 +6,7 @@ Welcome to my Github!
 ## Core Skills
 <div style="display: inline_block">
   
-  <strong>DATABASES</strong> <br> <br>
+  <strong>DATABASES</strong> <br>
   <img allign="center" alt="Matt-Mongo" heihgt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> 
   MongoDB - Professional Experience: 2.6 years <br>
   
@@ -31,7 +31,7 @@ Welcome to my Github!
 ## Technical Knowledge
 <div style="display: inline_block"><br>
   <strong>DATABASE</strong> <br>
-  <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br> <br>
+  <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br>
   <strong>BACKEND</strong> <br>
   <img allign="center" alt="Matt-Java" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/> C# .NET <br>
