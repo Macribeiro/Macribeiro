@@ -37,9 +37,9 @@ Welcome to my Github!
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/> C# .NET <br>
   <img allign="center" alt="Matt-VsCode" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"/> C++ <br>
   <img allign="center" alt="Matt-C" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg"/> C Lang <br> <br>
-  <strong>FRAMEWORKS</strong>
-  <img alling="center" alt="Matt-Exp" heihgt="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> Express.js <br>
-  EntityFrameworkCore <br> <br>
+  <strong>FRAMEWORKS</strong> <br> <br>
+  <img alling="center" alt="Matt-Exp" heihgt="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> Express.js <br> 
+  Entity Framework Core <br> <br>
   <strong>ODM</strong> <br> <br>
   <img allign="center" alt="Matt-Mongoose" heihgt="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /> Mongoose <br>
   
