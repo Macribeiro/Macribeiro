@@ -53,7 +53,7 @@ Welcome to my Github!
     
 ## GitHub Trophies
 <div>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Macribeiro&theme=darkhub" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=thomas210&amp;theme=darkhub" style="max-width: 100%;">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Macribeiro&rank=S,AA,B,C&theme=darkhub" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=thomas210&amp;theme=darkhub" style="max-width: 100%;">
 </div>
 
 ![](https://thumbs.gfycat.com/CloseHarshArawana-size_restricted.gif)
