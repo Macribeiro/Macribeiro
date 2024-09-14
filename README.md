@@ -29,7 +29,7 @@ Welcome to my Github!
 </div>
 
 ## Technical Knowledge
-<div style="display: inline_block">
+<<div style="display: inline_block">
   <strong>DATABASE</strong> <br> <br>
   <img allign="center" alt="Matt-MySql" heihgt="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> MySQL <br> <br>
   <strong>BACKEND</strong> <br> <br>
@@ -43,7 +43,7 @@ Welcome to my Github!
   <strong>ODM</strong> <br> <br>
   <img allign="center" alt="Matt-Mongoose" heihgt="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /> Mongoose <br>
   
-</div> <br>
+</div> > <br>
 
 ## My Github Top Languages
 <div>
