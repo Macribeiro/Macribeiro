@@ -1,8 +1,12 @@
 
-# Matheus Claudino Ribeiro
+# About me
 
-Bachelor degree in Information Systems by UNIARA - Universidade de Araraquara.
-Professional experiences in L2 / support and focused, and enthusiast, at the backend development using tecnologies like Node.JS, Express.js, MongoDB, SQL databases.
+Hi!\
+My name is Matheus Claudino Ribeiro. I'm based on Araraquara - SP, Brazil.\
+Bachelor degree in Information Systems by UNIARA - Universidade de Araraquara.\
+Professional experiences in L2 / support and focused, and enthusiast, at the backend
+development using tecnologies like Node.JS, Express.js, MongoDB, SQL databases.\
+My mother language is Brazilian Portuguese, but I have a B2 degree certified by MET in English language.
 
 ## Reach Me At
 
